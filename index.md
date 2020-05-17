@@ -1,5 +1,5 @@
 ---
-title: Minater247 Coding
+title: Minater247
 ---
 
 ## Coding things since 2015
