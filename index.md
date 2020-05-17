@@ -1,3 +1,5 @@
-# Welcome to my blog
+# M27 Code
 
-I'm glad you are here. I plan to talk about ...
+## Coding things since 2015
+
+Now coding websites!
